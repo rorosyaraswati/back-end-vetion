@@ -7,7 +7,7 @@ This is a JavaScript project that utilizes Express.js as the backend framework a
 To use this project, follow these installation steps:
 
 1. Clone this repository using your favorite code editor.
-2. Make sure you have npm installed on your computer.
+2. Make sure you have `npm` installed on your computer.
 3. Perform database migration using Sequelize with the following commands:
    ```bash
    npx sequelize-cli db:create
